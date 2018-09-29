@@ -1,0 +1,50 @@
+{
+	"data":[
+		{
+			"id":1,
+			"name":"mamatha.p",
+			"email":"pamisettymamatha@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"intermediate",
+					"institute":"LRG Naidu Jrcollege",
+					"data":["88%","2014-16"]
+				},
+				{
+					"degree":"Tenth",
+					"institute":"Deepti High School",
+					"data":["88%","2013-14"]
+				}
+			]
+		},
+		{
+			"id":2,
+			"name":"vamshi krishna",
+			"email":"nethulapallivamshikrishna@gmail.com",
+			"phone":"1234567890",
+			"education":[
+				{
+					"degree":"B-tech",
+					"institute":"SVIT Engg college",
+					"data":["72%","2016-20"]
+				},
+				{
+					"degree":"INTERMEDIATE",
+					"institute":"Narayana Jrcollege",
+					"data":["72%","2014-16"]
+				},
+				{
+					"degree":"TENTH",
+					"institute":"Deepti SCHOOL",
+					"data":["72%","2013-14"]
+				}
+			]
+		}
+	]
+}
